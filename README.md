@@ -90,3 +90,6 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
 ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/1.Sprint%20Screenshot/Ekran%20Resmi%202024-07-05%2021.48.29.png)
 
 ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/1.Sprint%20Screenshot/Ekran%20Resmi%202024-07-05%2021.49.22.png)
+
+
+# 2. Sprint
