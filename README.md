@@ -77,3 +77,8 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
 - Figma üzerinden giriş ekranı ve diğer sayfaların tasarımı Seray ve Şeyma Nur tarafından gerçekleştirildi.
 - Birinci buton kodları Şeyma Nur tarafından yazılmaya başlandı.
 - Yapılan tasarımlar ve haberleşme screenshotları repo içerisine eklenmişir.
+
+
+  #Ekran Görüntüleri
+
+  ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/1.Sprint%20Screenshot/Ekran%20Resmi%202024-07-04%2017.32.27.png)
