@@ -99,7 +99,7 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
 - Daily Scrum : Günlük Scrum toplantıları whatsapp üzerinden gerçekleştirildi. Grupta iki kişi kaldığımız için proje için projeyi birlikte yürütmeye karar verdik. Figma üzerinden ekran tasarımlarımızı yaptık.
 
   
-  ###Toplantı ve Whatsapp Ekran Görüntüleri :
+  ### Toplantı ve Whatsapp Ekran Görüntüleri :
 
 
  ##### Sprint Review :
