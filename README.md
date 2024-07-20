@@ -17,7 +17,7 @@ Serdar Kızılkale: Developer (Aktif Olmayan Üye)
 # Özellikler:
 
 - Kişiselleştirilmiş Değerlendirme: Öğrencilerin sınav performanslarına göre eksikliklerini belirler ve buna uygun olarak öğrenme planları oluşturur.
-- Konu Bazlı Çalışma Programları:Öğrencilere, eksik oldukları konuları güçlendirmek için özel olarak tasarlanmış çalışma programları sunar.
+- Çalışma Programları:Öğrencilere, eksik oldukları konuları güçlendirmek için özel olarak tasarlanmış çalışma programları sunar.
 - Deneme Sınavları ve Geri Bildirim: Girdikleri deneme sınavlarını girerler ve bu sınavlar üzerinden detaylı geri bildirimler sunarak öğrencilerin performanslarını değerlendirir.
 - Gelişim Takibi: Öğrencilerin ilerlemelerini takip eder, başarılarını görsel olarak sunar ve motivasyonlarını artırmak için teşvik edici özellikler sunar.
 - Mobil Uyumlu: Flutter teknolojisi kullanılarak geliştirilen uygulama, hem iOS hem de Android platformlarında sorunsuz çalışır ve öğrencilere her zaman ve her yerden erişim sağlar.
@@ -96,12 +96,20 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
 
 -Sprint içinde tahmin edilen puan : 100 Puan
 
-- Daily Scrum : Günlük Scrum toplantıları whatsapp üzerinden gerçekleştirildi. Grupta iki kişi kaldığımız için proje için projeyi birlikte yürütmeye karar verdik. Figma üzerinden ekran tasarımlarımızı yaptık.
+- Daily Scrum : Günlük Scrum toplantıları whatsapp üzerinden gerçekleştirildi. Grupta iki kişi kaldığımız için proje için projeyi birlikte yürütmeye karar verdik. Figma üzerinden ekran tasarımlarımızı yaptık. Giriş ekran kodları yazıldı. Menü itemleri ile kullanıcıya seçim hakkı sunuldu. Ana ekran ile bağlantılı olması için bilgileri yazdır butonu ekledik ve bu sayede ileride ana sayfa ile bu şekilde bağlantı yapılmasına karar verdik.
 
   
   ### Toplantı ve Whatsapp Ekran Görüntüleri :
 
 
  ##### Sprint Review :
+ 
+ - Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Diğer sayfaların bağlanması bir sonraki Sprinte kalmıştır.
+ - Sprint Review katılımcıları: Şeyma Nur Şahin, Seray Baydak
 
  ##### Sprint Retrospective:
+ 
+ - Sprint 2 için alınan puan 100'dür. SAyfa bağlantılarını yapmak bir sonraki sprinte kalmıştır.
+ - Diğer takım arkadaşlarımızla iletişim sağlanmaya çalışılmış ama hiç bir geri dönüş alınamamıştır.
+ - Düzenlemeler gereken sayfa yapılarına ortak karar verilmiş, devoloping kısmına yoğunlaşılmasına karar verilmiştir.
+ - Uygulamanın 'koçluk' sisteminden çıkmaması kararı alınmıştır.
