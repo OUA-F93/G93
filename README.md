@@ -116,7 +116,7 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
 
  ##### Sprint Retrospective:
  
- - Sprint 2 için alınan puan 100'dür. SAyfa bağlantılarını yapmak bir sonraki sprinte kalmıştır.
+ - Sprint 2 için alınan puan 100'dür. Sayfa bağlantılarını yapmak bir sonraki sprinte kalmıştır.
  - Diğer takım arkadaşlarımızla iletişim sağlanmaya çalışılmış ama hiç bir geri dönüş alınamamıştır.
- - Düzenlemeler gereken sayfa yapılarına ortak karar verilmiş, devoloping kısmına yoğunlaşılmasına karar verilmiştir.
+ - Düzenlemeler gereken sayfa yapılarına ortak karar verilmiş, developing kısmına yoğunlaşılmasına karar verilmiştir.
  - Uygulamanın 'koçluk' sisteminden çıkmaması kararı alınmıştır.
