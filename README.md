@@ -137,7 +137,7 @@ Daily Scrum: Daily Scrum toplantılarını Whatsapp üzerinden konuşmalar sağl
 
 #### Sprint Review:
 
-- Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
+- Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için birbirimizi tebrik ettik.
 - 2 ve 3. sayfa tasarımları ana sayfayla bağlanması sağlanmış, ders zorluklarına göre planlar düzenlenmiştir.
 - Tamamlanması gereken backlog puanı tamamlanmıştır.
 Sprint Review katılımcıları: Seray Baydak, Şeyma Nur Şahin .
