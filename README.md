@@ -120,3 +120,27 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
  - Diğer takım arkadaşlarımızla iletişim sağlanmaya çalışılmış ama hiç bir geri dönüş alınamamıştır.
  - Düzenlemeler gereken sayfa yapılarına ortak karar verilmiş, developing kısmına yoğunlaşılmasına karar verilmiştir.
  - Uygulamanın 'koçluk' sisteminden çıkmaması kararı alınmıştır.
+
+# 3. Sprint
+
+Sprint içinde tamamlanması tahmin edilen puan: Üçüncü sprint puanı 100 olarak belirlenmiştir.
+
+Daily Scrum: Daily Scrum toplantılarını Whatsapp üzerinden konuşmalar sağlanmıştır.
+
+
+  ### Uygulama ve Whatsapp Ekran Görüntüleri :
+
+  ![ekran görüntüleri]()
+  ![ekran görüntüleri]()
+  ![ekran görüntüleri]()
+  ![ekran görüntüleri]()
+
+#### Sprint Review:
+
+- Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
+- 2 ve 3. sayfa tasarımları ana sayfayla bağlanması sağlanmış, ders zorluklarına göre planlar düzenlenmiştir.
+- Tamamlanması gereken backlog puanı tamamlanmıştır.
+Sprint Review katılımcıları: Seray Baydak, Şeyma Nur Şahin .
+
+#### Sprint Retrospective:
+- Gelecek projelerde iletişimde kalınacağına dair konuşmalar yapıldı.
