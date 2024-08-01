@@ -18,13 +18,12 @@ Serdar Kızılkale: Developer (Aktif Olmayan Üye)
 
 - Kişiselleştirilmiş Değerlendirme: Öğrencilerin sınav performanslarına göre eksikliklerini belirler ve buna uygun olarak öğrenme planları oluşturur.
 - Çalışma Programları:Öğrencilere, eksik oldukları konuları güçlendirmek için özel olarak tasarlanmış çalışma programları sunar.
-- Deneme Sınavları ve Geri Bildirim: Girdikleri deneme sınavlarını girerler ve bu sınavlar üzerinden detaylı geri bildirimler sunarak öğrencilerin performanslarını değerlendirir.
 - Gelişim Takibi: Öğrencilerin ilerlemelerini takip eder, başarılarını görsel olarak sunar ve motivasyonlarını artırmak için teşvik edici özellikler sunar.
 - Mobil Uyumlu: Flutter teknolojisi kullanılarak geliştirilen uygulama, hem iOS hem de Android platformlarında sorunsuz çalışır ve öğrencilere her zaman ve her yerden erişim sağlar.
 
 # Hedef Kitle:
 
-“SanalKoçum”, 8. sınıftan 12. sınıfa kadar olan tüm öğrenciler ve sınavlara hazırlanan öğrenciler için tasarlanmıştır. Yoğun müfredat altında çalışan ve sınavlara etkili bir şekilde hazırlanmak isteyen öğrenciler için ideal bir destek aracı olarak konumlanmaktadır.
+“SanalKoçum”, 5. sınıftan 8. sınıfa kadar olan tüm öğrenciler ve sınavlara hazırlanan öğrenciler için tasarlanmıştır. Yoğun müfredat altında çalışan ve sınavlara etkili bir şekilde hazırlanmak isteyen öğrenciler için ideal bir destek aracı olarak konumlanmaktadır.
 
 
 # Backlog Puanlama Sistemi:
@@ -34,12 +33,7 @@ Serdar Kızılkale: Developer (Aktif Olmayan Üye)
    - Profil bilgileri düzenleme (10/100)
    - **Toplam:** 20/100
 
-2. Sınav Sonuçları ve Performans Analizi
-   - Dışarıdan girilen deneme sınavı sonuçlarının saklanması (15/100)
-   - Performans analizi ve grafiklerle görsel sunum (20/100)
-   - **Toplam:** 35/100
-
-3. Kişiselleştirilmiş Öğrenme Planları
+2. Öğrenme Planları
    - Sınav sonuçlarına göre eksik konuların belirlenmesi (12/100)
    - Kişiselleştirilmiş öğrenme planlarının oluşturulması (18/100)
    - **Toplam:** 30/100
@@ -67,7 +61,7 @@ Serdar Kızılkale: Developer (Aktif Olmayan Üye)
 9. Uygulama Adı Bulma (10/100)
     
 
-Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef belirlenmiştir.
+Toplam Puan 205 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef belirlenmiştir.
 
 # 1. Sprint İnceleme:
 - Haberleşmelerin WhatsApp üzerinden yapılmasına karar verildi.
@@ -123,7 +117,7 @@ Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef be
 
 # 3. Sprint
 
-Sprint içinde tamamlanması tahmin edilen puan: Üçüncü sprint puanı 100 olarak belirlenmiştir.
+Sprint içinde tamamlanması tahmin edilen puan: Üçüncü sprint puanı 95 olarak belirlenmiştir.
 
 Daily Scrum: Daily Scrum toplantılarını Whatsapp üzerinden konuşmalar sağlanmıştır.
 
