@@ -128,12 +128,12 @@ Sprint içinde tamamlanması tahmin edilen puan: Üçüncü sprint puanı 100 ol
 Daily Scrum: Daily Scrum toplantılarını Whatsapp üzerinden konuşmalar sağlanmıştır.
 
 
-  ### Uygulama ve Whatsapp Ekran Görüntüleri :
+  ### Whatsapp Ekran Görüntüleri :
 
-  ![ekran görüntüleri]()
-  ![ekran görüntüleri]()
-  ![ekran görüntüleri]()
-  ![ekran görüntüleri]()
+  ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/3.%20Sprint%20screenshot/Ekran%20Resmi%202024-07-31%2000.10.51.png)
+  ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/3.%20Sprint%20screenshot/Ekran%20Resmi%202024-07-31%2000.11.18.png)
+  ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/3.%20Sprint%20screenshot/Ekran%20Resmi%202024-07-31%2000.12.18.png)
+  ![ekran görüntüleri](https://github.com/OUA-F93/G93/blob/main/3.%20Sprint%20screenshot/Ekran%20Resmi%202024-07-31%2000.16.32.png)
 
 #### Sprint Review:
 
